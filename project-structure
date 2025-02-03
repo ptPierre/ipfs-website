@@ -1,0 +1,8 @@
+my-ipfs-website/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── public/
+│   └── index.html
+├── package.json
+└── .gitignore 

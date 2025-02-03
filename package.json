@@ -1,0 +1,11 @@
+{
+  "name": "my-ipfs-website",
+  "version": "1.0.0",
+  "description": "Simple website deployed to IPFS via Pinata",
+  "scripts": {
+    "build": "cp -r public build"
+  },
+  "keywords": ["ipfs", "pinata"],
+  "author": "",
+  "license": "ISC"
+} 
